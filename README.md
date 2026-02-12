@@ -8,9 +8,9 @@ Sou um estudante de Engenharia de Software em constante evolução. Atualmente, 
 <h2 align="left">🔎 Sobre mim</h2>
 
 ###
-* 💻 Graduando em Engenharia de Software na UNAERP
-* 📚 Estudando Java, C e desenvolvimento backend
-* 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
+* Graduando em Engenharia de Software na UNAERP
+* Estudando Java, C e desenvolvimento backend
+* Explorando novas tecnologias e desenvolvendo soluções de software
 
 
 ###
@@ -22,14 +22,6 @@ Sou um estudante de Engenharia de Software em constante evolução. Atualmente, 
     <img src="https://skillicons.dev/icons?i=java,git,github,c,cpp,arduino,vscode,idea" />
   </a>
 </p>
-
-<h2 align="left">📊 Estatísticas</h2>
-
-###
-
-<div align="center">
-
-[![Atividade recente de Matheus Kinchin](https://github-readme-activity-graph.vercel.app/graph?username=kinchinmatheus&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
